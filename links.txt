@@ -8,4 +8,30 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Links
 =====
- 
+Syba SY-ADA40087 Driverless 2.5" M.2 SSD to SATA III Adapter
+o Maximize your PC's speed by adding a SSD.
+o Reduce overall power consumption with a highly efficient SSD.
+o There's no hassle whatsoever - all you have to do is plug it in!
+o Support M.2 card size: 22 x 30, 22 x 42, 22 x 60, 22 x 80,
+o Compatible with SATA I, II, III
+o For 3.3V M.2 SSD module
+NOTE: I do not think this unit has mounting screws.
+      That said would the Supermicro box even need them?
+price: $19.43 (Fri Jun 8, 2018)
+https://www.newegg.com/Product/Product.aspx?Item=N82E16817998236
+
+SYBA SY-ADA40092 2.5" SATA III to M.2 (NGFF) SSD Enclosure
+with Complete Screw Set
+o Complies with Serial ATA Specification Rev 3.2 DEVSLP Function
+o Supports SATA III, SATA II, and SATA I Operation
+o Standard 2.5" (9.5mm) SATA Storage Device Form Factor (100mm x 70mm x 9.2mm)
+o Transparent to OS
+o No Drivers Needed
+o Can Be a Primary Bootable Device Containing OS--However,
+  Might Require Re-Installation of OS
+o LED Indicators:
+  Green LED Indicates the M.2 SSDs Power Status
+  Red LED Indicates the M.2 SSDs Active Status
+NOTE: Picture has mounting screws
+price: $21.29 (Fri Jun 8, 2018)
+https://www.newegg.com/Product/Product.aspx?Item=N82E16812186244
